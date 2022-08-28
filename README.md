@@ -63,8 +63,11 @@ The graph in Neo4j is analysed using Networkx. This project uses the neo4j graph
 	    
 	
 	nodes, rels = neo4jReturn(txt)
-    ```
- ![graph](Image/Graph.png)
+```
+
+![graph](Image/Graph.png)
+
+
 6. Below is the code block to cluster the graph spectrally
 
   ```python
